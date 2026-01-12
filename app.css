@@ -1,6 +1,8 @@
 body {
   font-family: arial;
   text-align: center;
+  background: url(assets/2.jpg);
+  background-size: cover;
 }
 .board {
   width: 540px;
